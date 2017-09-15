@@ -1,0 +1,7 @@
+[package]
+name = "simulated_annealing"
+version = "0.1.0"
+authors = ["Matias Alvin <alvinmatias69@gmail.com>"]
+
+[dependencies]
+rand = "0.3.0"
